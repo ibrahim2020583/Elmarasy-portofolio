@@ -1,0 +1,17 @@
+[{"id":1,"image":"assets/img/portfolio/IMG-20210612-WA0014.jpg", "filter" : "filter-web" , "site" : "http://elmasry-salon.netlify.app"},
+{"id":2,"image":"assets/img/portfolio/portfolio-2.jpg" , "filter" : "filter-card" },
+{"id":3,"image":"assets/img/portfolio/portfolio-3.jpg" , "filter" : "filter-web"},
+{"id":4,"image":"assets/img/portfolio/portfolio-4.jpg" , "filter" : "filter-app"},
+{"id":5,"image":"assets/img/portfolio/portfolio-5.jpg" , "filter" : "filter-web"},
+{"id":6,"image":"assets/img/portfolio/portfolio-6.jpg" , "filter" : "filter-card"},
+{"id":7,"image":"assets/img/portfolio/portfolio-7.jpg" , "filter" : "filter-web"},
+{"id":8,"image":"assets/img/portfolio/portfolio-8.jpg" , "filter" : "filter-app"},
+{"id":9,"image":"assets/img/portfolio/portfolio-9.jpg", "filter" : "filter-card"}
+
+]
+
+
+
+
+
+
