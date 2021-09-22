@@ -1,12 +1,7 @@
 [{"id":1,"image":"assets/img/portfolio/IMG-20210612-WA0014.jpg", "filter" : "filter-web" , "site" : "http://elmasry-salon.netlify.app"},
-{"id":2,"image":"assets/img/portfolio/portfolio-2.jpg" , "filter" : "filter-card" },
-{"id":3,"image":"assets/img/portfolio/portfolio-3.jpg" , "filter" : "filter-web"},
-{"id":4,"image":"assets/img/portfolio/portfolio-4.jpg" , "filter" : "filter-app"},
-{"id":5,"image":"assets/img/portfolio/portfolio-5.jpg" , "filter" : "filter-web"},
-{"id":6,"image":"assets/img/portfolio/portfolio-6.jpg" , "filter" : "filter-card"},
-{"id":7,"image":"assets/img/portfolio/portfolio-7.jpg" , "filter" : "filter-web"},
-{"id":8,"image":"assets/img/portfolio/portfolio-8.jpg" , "filter" : "filter-app"},
-{"id":9,"image":"assets/img/portfolio/portfolio-9.jpg", "filter" : "filter-card"}
+{"id":2,"image":"assets/img/portfolio/Apple-Event-iPhone-13-390x220.jpg", "filter" : "filter-app" , "site" : "https://romantic-tereshkova-2cf5e5.netlify.app/"},
+{"id":3,"image":"assets/img/portfolio/navbar-bg.jpg ", "filter" : "filter-card" , "site" : "https://distracted-shockley-b6c706.netlify.app/"}
+
 
 ]
 
